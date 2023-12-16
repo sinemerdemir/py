@@ -1,3 +1,4 @@
+#This is a test comment. comment number 2
 def read_labyrinth(filename="labyrinth.dat"):
     labyrinth = []
     with open(filename, 'r') as file:
